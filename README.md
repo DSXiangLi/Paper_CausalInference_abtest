@@ -2,7 +2,11 @@
 
 这里是因果推理和AB实验相关的小书库，大多只是走过路过看过的一些paper，不100%保质保量保全，也欢迎发现好玩paper的小伙伴贡献自己的一份力量～ 
 
-### Latest Update
+### Conferenc
+2021 summit Judea Pearl及因果领域众多专家将聚焦因果机器学习的现状以及未来发展
+[2021Summit 因果机器学习第一场](https://www.toutiao.com/w/i1713591667207176/?tt_from=weixin&utm_campaign=client_share&timestamp=1634208817&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&share_token=5dee6434-37f2-4985-93a6-bdc25f3bb0ef&wxshare_count=1&wid=1634215330517)
+
+
 KDD 8.15的vitrual conf，Uber&微软联合推销各自的开源项目Causalml&EconML，case study给的还是很有诚意的可以期待一下～
 [Causal Inference and Machine Learning in Practice with EconML and CausalML: Industrial Use Cases at Microsoft, TripAdvisor, Uber](https://causal-machine-learning.github.io/kdd2021-tutorial/)
 
